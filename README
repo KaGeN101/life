@@ -1,0 +1,16 @@
+
+An Example implementation in Ruby of Conway's Game of Life
+
+Uses a Grid for hte implementation
+
+Runs in the engine
+
+Gets boot strapped from life.rb:
+```ruby life.rb```
+
+
+To run the test, are located in tests folder just run each file
+```
+ruby tests/test_grid.rb
+ruby tests/test_engine.rb
+```
